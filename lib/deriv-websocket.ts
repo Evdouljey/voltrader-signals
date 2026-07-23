@@ -1,0 +1,1 @@
+// Full content of the Deriv WS service as implemented above
